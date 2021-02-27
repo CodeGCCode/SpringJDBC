@@ -1,2 +1,2 @@
-# Spring_JDBC
+# SpringJDBC
 Java and framework Spring Data JDBC
